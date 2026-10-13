@@ -1,0 +1,20 @@
+# Norden-datasettet (for stort for GitHub, se README)
+/noder.txt
+/kanter.txt
+/interessepkt.txt
+/avstanderFraLandemerker.csv
+/avstanderTilLandemerker.csv
+
+# Bygg og krasjlogger
+*.class
+hs_err_pid*.log
+
+# Rapport
+*.docx
+*.pdf
+
+# Duplikater
+* copy.csv
+
+.vscode/
+.claude/
